@@ -1,4 +1,4 @@
-#PANCAKE MAKER
+# PANCAKE MAKER
 
 Its a fan benchmarker, via maxing your CPU
 
